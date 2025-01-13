@@ -6,4 +6,4 @@
 ## Term Project
 [Project File]<br>
 [Project Report]<br>
-[R Scripts]<br>
+[R Scripts](https://github.com/BU-IE-582/fall-24-ezgitas/Project\2024/Codes)<br>
